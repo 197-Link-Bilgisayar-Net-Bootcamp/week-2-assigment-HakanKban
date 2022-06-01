@@ -1,0 +1,12 @@
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Open_Closed\bin\Debug\net6.0\Open_Closed.deps.json
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Open_Closed\bin\Debug\net6.0\Open_Closed.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Open_Closed\bin\Debug\net6.0\Open_Closed.pdb
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Open_Closed\obj\Debug\net6.0\Open_Closed.csproj.AssemblyReference.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Open_Closed\obj\Debug\net6.0\Open_Closed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Open_Closed\obj\Debug\net6.0\Open_Closed.AssemblyInfoInputs.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Open_Closed\obj\Debug\net6.0\Open_Closed.AssemblyInfo.cs
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Open_Closed\obj\Debug\net6.0\Open_Closed.csproj.CoreCompileInputs.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Open_Closed\obj\Debug\net6.0\Open_Closed.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Open_Closed\obj\Debug\net6.0\refint\Open_Closed.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Open_Closed\obj\Debug\net6.0\Open_Closed.pdb
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Open_Closed\obj\Debug\net6.0\ref\Open_Closed.dll

@@ -1,0 +1,12 @@
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Liskov_Substitution\bin\Debug\net6.0\Liskov_Substitution.deps.json
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Liskov_Substitution\bin\Debug\net6.0\Liskov_Substitution.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Liskov_Substitution\bin\Debug\net6.0\Liskov_Substitution.pdb
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Liskov_Substitution\obj\Debug\net6.0\Liskov_Substitution.csproj.AssemblyReference.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Liskov_Substitution\obj\Debug\net6.0\Liskov_Substitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Liskov_Substitution\obj\Debug\net6.0\Liskov_Substitution.AssemblyInfoInputs.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Liskov_Substitution\obj\Debug\net6.0\Liskov_Substitution.AssemblyInfo.cs
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Liskov_Substitution\obj\Debug\net6.0\Liskov_Substitution.csproj.CoreCompileInputs.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Liskov_Substitution\obj\Debug\net6.0\Liskov_Substitution.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Liskov_Substitution\obj\Debug\net6.0\refint\Liskov_Substitution.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Liskov_Substitution\obj\Debug\net6.0\Liskov_Substitution.pdb
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Liskov_Substitution\obj\Debug\net6.0\ref\Liskov_Substitution.dll

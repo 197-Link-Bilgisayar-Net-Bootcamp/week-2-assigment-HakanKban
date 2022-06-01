@@ -1,0 +1,12 @@
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Single_Responsibility\bin\Debug\net6.0\Single_Responsibility.deps.json
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Single_Responsibility\bin\Debug\net6.0\Single_Responsibility.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Single_Responsibility\bin\Debug\net6.0\Single_Responsibility.pdb
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Single_Responsibility\obj\Debug\net6.0\Single_Responsibility.csproj.AssemblyReference.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Single_Responsibility\obj\Debug\net6.0\Single_Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Single_Responsibility\obj\Debug\net6.0\Single_Responsibility.AssemblyInfoInputs.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Single_Responsibility\obj\Debug\net6.0\Single_Responsibility.AssemblyInfo.cs
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Single_Responsibility\obj\Debug\net6.0\Single_Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Single_Responsibility\obj\Debug\net6.0\Single_Responsibility.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Single_Responsibility\obj\Debug\net6.0\refint\Single_Responsibility.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Single_Responsibility\obj\Debug\net6.0\Single_Responsibility.pdb
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Single_Responsibility\obj\Debug\net6.0\ref\Single_Responsibility.dll

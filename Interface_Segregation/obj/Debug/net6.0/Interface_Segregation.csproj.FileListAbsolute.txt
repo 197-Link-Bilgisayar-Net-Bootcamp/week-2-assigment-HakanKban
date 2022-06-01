@@ -1,0 +1,12 @@
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Interface_Segregation\bin\Debug\net6.0\Interface_Segregation.deps.json
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Interface_Segregation\bin\Debug\net6.0\Interface_Segregation.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Interface_Segregation\bin\Debug\net6.0\Interface_Segregation.pdb
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Interface_Segregation\obj\Debug\net6.0\Interface_Segregation.csproj.AssemblyReference.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Interface_Segregation\obj\Debug\net6.0\Interface_Segregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Interface_Segregation\obj\Debug\net6.0\Interface_Segregation.AssemblyInfoInputs.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Interface_Segregation\obj\Debug\net6.0\Interface_Segregation.AssemblyInfo.cs
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Interface_Segregation\obj\Debug\net6.0\Interface_Segregation.csproj.CoreCompileInputs.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Interface_Segregation\obj\Debug\net6.0\Interface_Segregation.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Interface_Segregation\obj\Debug\net6.0\refint\Interface_Segregation.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Interface_Segregation\obj\Debug\net6.0\Interface_Segregation.pdb
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\Interface_Segregation\obj\Debug\net6.0\ref\Interface_Segregation.dll

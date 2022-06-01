@@ -10,3 +10,8 @@ C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevW
 C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Repository\obj\Debug\net6.0\refint\HakanKabanOdevWeek2.Repository.dll
 C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Repository\obj\Debug\net6.0\HakanKabanOdevWeek2.Repository.pdb
 C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Repository\obj\Debug\net6.0\ref\HakanKabanOdevWeek2.Repository.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Repository\bin\Debug\net6.0\HakanKabanOdevWeek2.Repository.runtimeconfig.json
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Repository\bin\Debug\net6.0\HakanKabanOdevWeek2.Core.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Repository\bin\Debug\net6.0\HakanKabanOdevWeek2.Core.pdb
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Repository\obj\Debug\net6.0\HakanKabanOdevWeek2.Repository.csproj.CopyComplete
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Repository\obj\Debug\net6.0\HakanKabanOdevWeek2.Repository.genruntimeconfig.cache
