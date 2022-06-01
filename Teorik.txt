@@ -1,0 +1,9 @@
+Controllerda temel crud iþlemleri yaptýðýmýzý düþünelim.
+Ýlgili sýnýf için Repository oluþturduðumuzu ve crud iþlemlerini bu repository üzerinden yapýyor olalým.
+Burada Repository Low-Level bileþendir. Yani yapmasý gereken iþle ilgili kaynaklara doðrudan eriþip karmaþýk iþler yapan
+nesneler olarak ifade edilebilir. Repository nin iþleyiþi deðiþirse controllerda yaptýðýmýz iþlemler zarar görebilir.
+Ýþte Repository ile Controller arasýndaki bu iliþki Tightly-Coupled olarak isimlendirilir.
+Sorun doðrudan repositorynin kullanýlmasýdýr.
+Bu sorunu çözmek için Controller ile Repository arasýnda iliþki gevþetilmelidir. Buda Loosely-Coupled ilkesinin saðlanmasýdýr.
+Bunun için IRepository Arayüzü açarak Controllera ve Repositoryde implement edilmesini saðlayarak doðrudan deðilde 
+arada interface ile daha zayýf bir iliþki kurulmasý  doðru bir yaklaþým olacaktýr.

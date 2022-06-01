@@ -1,0 +1,13 @@
+*****Database ACID(Atomicity,Consistency,Isolation,Durability) prensipleri*****
+
+1-)Atomicity(Bütünlük) : Ýþlemler veri tabaný tarafýndan bir bütün olarak ele alýmalýdýr.
+Yapýlan iþlem herhangi bir kesintiye uðradýðýnda tüm iþlemler geçersiz sayýlýr. Örneðin bir hesaptan baþka hesaba para 
+aktarýmý sýrasýnda oluþacak herhangi bir hatada gönderme iþlemi iptal edilmelidir.
+
+2-)Consistency(tutarlýlýk): Ýþlemler tutarlý olmalýdýr.
+Örneðin bir ekleme iþlemi sýrasýnda çalýþan foreign key,trigger iþlemi ekleme iþlemi ile tutarlý olmalýdýr.
+
+3-) Isolation(baðýmsýzlýk) : Birden fazla iþlem birbirinden baðýmsýz olarak ele alýnmalýdýr.
+
+4-) Durability(dayanýklýlýk) : Ýþlem sýrasýnda herhangi bir hata geldiðinde veri tabaný verileri önceki duruma getirmelidir.
+Para gönderme örneðine dönersek, iþlem iptal edildiðinde para hesaba geri dönmelidir.

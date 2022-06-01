@@ -1,0 +1,12 @@
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Service\bin\Debug\net6.0\HakanKabanOdevWeek2.Service.deps.json
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Service\bin\Debug\net6.0\HakanKabanOdevWeek2.Service.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Service\bin\Debug\net6.0\HakanKabanOdevWeek2.Service.pdb
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Service\obj\Debug\net6.0\HakanKabanOdevWeek2.Service.csproj.AssemblyReference.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Service\obj\Debug\net6.0\HakanKabanOdevWeek2.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Service\obj\Debug\net6.0\HakanKabanOdevWeek2.Service.AssemblyInfoInputs.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Service\obj\Debug\net6.0\HakanKabanOdevWeek2.Service.AssemblyInfo.cs
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Service\obj\Debug\net6.0\HakanKabanOdevWeek2.Service.csproj.CoreCompileInputs.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Service\obj\Debug\net6.0\HakanKabanOdevWeek2.Service.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Service\obj\Debug\net6.0\refint\HakanKabanOdevWeek2.Service.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Service\obj\Debug\net6.0\HakanKabanOdevWeek2.Service.pdb
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.Service\obj\Debug\net6.0\ref\HakanKabanOdevWeek2.Service.dll

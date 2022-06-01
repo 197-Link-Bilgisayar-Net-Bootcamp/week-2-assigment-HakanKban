@@ -1,0 +1,15 @@
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanODevWeek2.Extension\bin\Debug\net6.0\HakanKabanODevWeek2.Extension.exe
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanODevWeek2.Extension\bin\Debug\net6.0\HakanKabanODevWeek2.Extension.deps.json
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanODevWeek2.Extension\bin\Debug\net6.0\HakanKabanODevWeek2.Extension.runtimeconfig.json
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanODevWeek2.Extension\bin\Debug\net6.0\HakanKabanODevWeek2.Extension.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanODevWeek2.Extension\bin\Debug\net6.0\HakanKabanODevWeek2.Extension.pdb
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanODevWeek2.Extension\obj\Debug\net6.0\HakanKabanODevWeek2.Extension.csproj.AssemblyReference.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanODevWeek2.Extension\obj\Debug\net6.0\HakanKabanODevWeek2.Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanODevWeek2.Extension\obj\Debug\net6.0\HakanKabanODevWeek2.Extension.AssemblyInfoInputs.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanODevWeek2.Extension\obj\Debug\net6.0\HakanKabanODevWeek2.Extension.AssemblyInfo.cs
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanODevWeek2.Extension\obj\Debug\net6.0\HakanKabanODevWeek2.Extension.csproj.CoreCompileInputs.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanODevWeek2.Extension\obj\Debug\net6.0\HakanKabanODevWeek2.Extension.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanODevWeek2.Extension\obj\Debug\net6.0\refint\HakanKabanODevWeek2.Extension.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanODevWeek2.Extension\obj\Debug\net6.0\HakanKabanODevWeek2.Extension.pdb
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanODevWeek2.Extension\obj\Debug\net6.0\HakanKabanODevWeek2.Extension.genruntimeconfig.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanODevWeek2.Extension\obj\Debug\net6.0\ref\HakanKabanODevWeek2.Extension.dll

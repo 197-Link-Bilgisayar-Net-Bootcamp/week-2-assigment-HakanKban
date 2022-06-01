@@ -1,0 +1,5 @@
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.csproj.AssemblyReference.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.AssemblyInfoInputs.cache
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.AssemblyInfo.cs
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.csproj.CoreCompileInputs.cache
