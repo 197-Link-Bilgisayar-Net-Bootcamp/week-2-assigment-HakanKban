@@ -1,5 +1,0 @@
-C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.csproj.AssemblyReference.cache
-C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.AssemblyInfoInputs.cache
-C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.AssemblyInfo.cs
-C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.csproj.CoreCompileInputs.cache
