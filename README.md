@@ -1,17 +1,11 @@
-# week-2-assignment
 
-Öncelikle boş bir solution açıp ödevler bunun içinde yapılacak.
 
-## ÖDEV 1 : EF Core API (CRUD) 
-- Bir API projesi oluşturulacak
-- EF Core implementasyonu yapılacak
-- Bu API ile Temel CRUD işlemlerini yapılabilecek
+## ÖDEV Hakkın Açıklama
+- Solıd prensipleri teorik açıklama yapılarak ilgili klasörlerde senrayolarla açıklanarak anlatıldı.
+- Acıd prensipleri ve Tightly_looseley coupled teorik olarak txt dosyasında açıklandı.
+- Extension Çalışması olarak pratik yapıldı ve Polymorphism açıklandı.
+- Crud işlemleri için mimari kurularak oyunlar ve kullanıcıların bir senaryo kurularak bunun üzerine oyunlarda crud işlemleri yapıldı.
 
-### Opsiyonel
-- Katmanlı mimari veya bildiğiniz tüm bilgileri bu API ye uygulayabilirsiniz
-- Code first yaklaşımı kullanılacak
 
-## ÖDEV 2 : SOLID prensiblerini uyguladığınız basit bir uygulama
-- Console uygulaması olabilir
-- Hocanın derste yaptığı uygulamalar olabilir (3 uygulamayı içerebilir)
+
  
