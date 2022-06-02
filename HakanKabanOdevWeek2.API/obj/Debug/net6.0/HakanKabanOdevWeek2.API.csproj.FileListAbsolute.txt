@@ -63,3 +63,7 @@ C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevW
 C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.API\bin\Debug\net6.0\HakanKabanOdevWeek2.Core.pdb
 C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.API\bin\Debug\net6.0\Humanizer.dll
 C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.API\bin\Debug\net6.0\HakanKabanOdevWeek2.Service.dll
+C:\Users\MELİSAYILDIRIM\Source\Repos\week-2-assigment-HakanKban\HakanKabanOdevWeek2.API\bin\Debug\net6.0\HakanKabanOdevWeek2.Service.pdb

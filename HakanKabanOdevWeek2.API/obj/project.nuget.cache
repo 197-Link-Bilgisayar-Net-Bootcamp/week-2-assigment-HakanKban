@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rnlGAaFVj3HNaC3o7fIGMeMCFWD/XAWO6b3qzl/VcifWMM+RB6VQN+tAo0ya4/ktvX2uu0or/rOJzewf0EJVWA==",
+  "dgSpecHash": "o5dLLfKyx5dbGWODVCL45kJ3ijV4IPGKVrkt1znLDMSG4V0WRR0LFKyW5N6XnPaW9wc2wJZPVQFr13yXkRi5gw==",
   "success": true,
   "projectFilePath": "C:\\Users\\MELİSAYILDIRIM\\Source\\Repos\\week-2-assigment-HakanKban\\HakanKabanOdevWeek2.API\\HakanKabanOdevWeek2.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\MELİSAYILDIRIM\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\MELİSAYILDIRIM\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\MELİSAYILDIRIM\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\MELİSAYILDIRIM\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\MELİSAYILDIRIM\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

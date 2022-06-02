@@ -1,3 +1,6 @@
+using Autofac;
+using Autofac.Extensions.DependencyInjection;
+using HakanKabanOdevWeek2.API.AutoFac;
 using HakanKabanOdevWeek2.Repository.Context;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
@@ -17,7 +20,9 @@ builder.Services.AddDbContext<MyContext>(x =>
         option.MigrationsAssembly(Assembly.GetAssembly(typeof(MyContext)).GetName().Name); // Migrationýn bulunduðu assembly i iþaret ettik. appsetting.json'da baðlantý cümleciði.
     });
 });
-
+// Autofac kütüphanesi ayarlarý.
+builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
+builder.Host.ConfigureContainer<ContainerBuilder>(ContainerBuilder => ContainerBuilder.RegisterModule(new ServiceModule()));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
